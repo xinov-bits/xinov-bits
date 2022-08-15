@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xinov-bits
+- 👋 Hi, I’m Tanishq
 - 👀 I’m interested in python and js
 - 🌱 I’m currently learning python
 
