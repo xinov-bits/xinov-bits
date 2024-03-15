@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanishq
-- 👀 I’m interested in python and js
+- 👀 I’m interested in python and javascript
 - 🌱 I’m currently learning python
 
 <!---
